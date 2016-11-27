@@ -3,7 +3,7 @@
 
   <title>Steven Upton's Blog</title>
   <link href="https://stwupton.github.io/"/>
-  <updated>2016-11-27T18:28:02Z</updated>
+  <updated>2016-11-27T19:10:02Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
@@ -11,19 +11,12 @@
   <id>https://stwupton.github.io/</id>
 
   <entry>
-    <title>First</title>
-    <link href="https://stwupton.github.io/2016/11/first"/>
-    <id>https://stwupton.github.io/2016/11/first</id>
-    <updated>2016-11-27T18:00:02Z</updated>
-    <content><p>This is the content.</p></content>
-  </entry>
-
-  <entry>
-    <title>Second</title>
-    <link href="https://stwupton.github.io/2016/11/first"/>
-    <id>https://stwupton.github.io/2016/11/first</id>
-    <updated>2016-11-27T18:28:02Z</updated>
-    <content><p>Another test. A <a href="https://indecks.co">link</a><strong>BOLD TEXT</strong></p></content>
+    <title>Third</title>
+    <link rel="alternate" type="text/html" href="https://stwupton.github.io/2016/11/third"/>
+    <id>https://stwupton.github.io/2016/11/third</id>
+    <published>2016-11-27T19:10:02Z</published>
+    <updated>2016-11-27T19:10:02Z</updated>
+    <content type="html"><p>Another test. A <a href="https://indecks.co">link</a> <strong>BOLD TEXT</strong></p><img src="https://lh3.googleusercontent.com/qolB-ZYSrkWWi6PVq_mymq4SmlItFMMqZJ3CY03180OHNlC2j0KOQQDpOndmEFPQpJw17vpDUQ=w1366-h768-rw-no"></content>
   </entry>
 
 </feed>
