@@ -35,6 +35,5 @@ void main(List<String> args) {
 
   File md = new File(rootPath + 'drafts\\$id.md');
   md.createSync(recursive: true);
-  md.writeAsStringSync('# $title');
 
 }
