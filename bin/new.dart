@@ -14,8 +14,6 @@ void main(List<String> args) {
     .replaceAll(' ', '-')
     .replaceAll(new RegExp('[^\\w-]'), '');
 
-  String rootPath = resolveRootPath('new');
-
   File index = new File(rootPath + 'index\\drafts.json');
   List<Map> indexData;
   try {

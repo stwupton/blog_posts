@@ -13,12 +13,12 @@ Future main() async {
 
 void disposeDraftCorpse(String id) {
 
-  File index = new File(resolveRootPath('publish') + 'index\\drafts.json');
+  File index = new File(rootPath + 'index\\drafts.json');
   List indexData = JSON.decode(index.readAsStringSync());
   indexData.removeWhere((Map draft) => draft['id'] == id);
   index.writeAsStringSync(jsonEncoder.convert(indexData));
 
-  File md = new File(resolveRootPath('publish') + 'drafts\\$id.md');
+  File md = new File(rootPath + 'drafts\\$id.md');
   md.deleteSync(recursive: true);
 
 }
@@ -26,7 +26,7 @@ void disposeDraftCorpse(String id) {
 Map getDraft() {
 
   File index;
-  String indexPath = resolveRootPath('publish') + 'index\\drafts.json';
+  String indexPath = rootPath + 'index\\drafts.json';
   if (FileSystemEntity.isFileSync(indexPath))
     index = new File(indexPath);
   else
@@ -58,7 +58,7 @@ void publish(Map draft) {
 
   // Get markdown contents and delete file
   File md;
-  String mdPath = resolveRootPath('publish') + 'drafts\\${draft['id']}.md';
+  String mdPath = rootPath + 'drafts\\${draft['id']}.md';
   if (FileSystemEntity.isFileSync(mdPath))
     md = new File(mdPath);
   else
@@ -66,7 +66,7 @@ void publish(Map draft) {
 
   String mdContent = md.readAsStringSync();
 
-  mdPath = resolveRootPath('publish') + 'posts\\${now.year}\\${now.month}\\${draft['id']}.md';
+  mdPath = rootPath + 'posts\\${now.year}\\${now.month}\\${draft['id']}.md';
   md = new File(mdPath)
     ..createSync(recursive: true)
     ..writeAsStringSync(mdContent);
@@ -76,7 +76,7 @@ void publish(Map draft) {
     'published': now.toUtc().toString()
   });
 
-  String indexPath = resolveRootPath('publish') + 'index\\${now.year}.json';
+  String indexPath = rootPath + 'index\\${now.year}.json';
   File index = new File(indexPath);
   Map<String, List<Map>> indexData;
   try {
