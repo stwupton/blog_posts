@@ -38,7 +38,7 @@ Nunc auctor arcu ut nulla iaculis auctor. Nam accumsan mi vel orci euismod fring
 
 ###### Sub-heading (H6)
 
-**Some bold text.*
+**Some bold text.**
 
 *Some italic text.*
 
