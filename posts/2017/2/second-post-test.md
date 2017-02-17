@@ -4,6 +4,9 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum urna nunc, in pretium risus hendrerit at. Etiam pharetra molestie velit. Phasellus semper massa a felis tempus, ut posuere ligula fermentum. Curabitur accumsan in lacus at fermentum. Vestibulum dapibus auctor libero eget elementum. Nullam lacinia id dolor quis consectetur. Aliquam a nunc ac odio convallis blandit id sit amet tellus. Maecenas sed urna id nulla varius sagittis. Nulla in rhoncus odio, ut tristique diam. Donec scelerisque elit in nisi suscipit accumsan. Fusce elementum tincidunt est nec pellentesque.
 
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">&gt; i should write a blog post<br>&gt; don’t like my current blogging engine<br>&gt; could build one<br>*builds blogging engine*<br>&gt; could blog about that</p>&mdash; I Am Devloper (@iamdevloper) <a href="https://twitter.com/iamdevloper/status/743799765566054410">17 June 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Sub-heading (H2)
 
 Unordered List:

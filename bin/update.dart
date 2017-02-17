@@ -22,7 +22,7 @@ void main() {
 }
 
 int getYear() {
-  for (int year = 2016; year < now.year; year++) {
+  for (int year = 2016; year <= now.year; year++) {
     stdout.writeln('${year - 2016}. $year');
   }
   stdout.write('\n\nEnter year of the post you wish to update... ');
