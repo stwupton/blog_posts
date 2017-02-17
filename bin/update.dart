@@ -12,6 +12,9 @@ void main() {
   String month = getMonth(posts);
   Map post = getPost(posts[month]);
 
+  File mdFile = new File(rootPath + 'posts\\$year\\$month\\${post['id']}.md');
+  post['snippet'] = extractSnippet(mdFile.readAsStringSync());
+
   post['updated'] = now.toUtc().toString();
   postsFile.writeAsStringSync(jsonEncoder.convert(posts));
   stdout.writeln('Updated post: ${post['id']}');

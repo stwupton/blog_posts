@@ -73,7 +73,8 @@ void publish(Map draft) {
 
   // Create index entry
   draft.addAll({
-    'published': now.toUtc().toString()
+    'published': now.toUtc().toString(),
+    'snippet': extractSnippet(mdContent)
   });
 
   String indexPath = rootPath + 'index\\${now.year}.json';
