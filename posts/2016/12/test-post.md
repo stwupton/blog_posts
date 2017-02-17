@@ -62,5 +62,5 @@ void doSomething() {
 }
 ```
 
-[indecks logo]: https://indecks.co/images/logo.png
+[indecks logo]: https://www.crowdfunder.co.uk/uploads/project_images/6e/83/56382/edd80240db8b0c279741801bd3ea30f5.png
 [indecks website]: https://indecks.co "Indecks"

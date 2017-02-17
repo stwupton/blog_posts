@@ -19,7 +19,6 @@ void main() {
 }
 
 int getYear() {
-  stdout.writeln('0. 2016');
   for (int year = 2016; year < now.year; year++) {
     stdout.writeln('${year - 2016}. $year');
   }
