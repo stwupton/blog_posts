@@ -2,17 +2,15 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 
-import 'util.dart';
+import 'src/util.dart';
 
 Future main() async {
-
   Map draft = getDraft();
   publish(draft);
-
+  disposeDraftCorpse(draft['id']);
 }
 
 void disposeDraftCorpse(String id) {
-
   File index = new File(rootPath + 'index\\drafts.json');
   List indexData = JSON.decode(index.readAsStringSync());
   indexData.removeWhere((Map draft) => draft['id'] == id);
@@ -20,17 +18,16 @@ void disposeDraftCorpse(String id) {
 
   File md = new File(rootPath + 'drafts\\$id.md');
   md.deleteSync(recursive: true);
-
 }
 
 Map getDraft() {
-
   File index;
   String indexPath = rootPath + 'index\\drafts.json';
-  if (FileSystemEntity.isFileSync(indexPath))
+  if (FileSystemEntity.isFileSync(indexPath)) {
     index = new File(indexPath);
-  else
+  } else {
     throw new Exception('Could not find unpublished posts.');
+  }
 
   List<Map> indexData = JSON.decode(index.readAsStringSync());
 
@@ -51,18 +48,17 @@ Map getDraft() {
   Map draft = indexData[i];
 
   return draft;
-
 }
 
 void publish(Map draft) {
-
   // Get markdown contents and delete file
   File md;
   String mdPath = rootPath + 'drafts\\${draft['id']}.md';
-  if (FileSystemEntity.isFileSync(mdPath))
+  if (FileSystemEntity.isFileSync(mdPath)) {
     md = new File(mdPath);
-  else
+  } else {
     throw new Exception('Cannot find markdown located at: $mdPath');
+  }
 
   String mdContent = md.readAsStringSync();
 
@@ -91,7 +87,4 @@ void publish(Map draft) {
   posts.add(draft);
 
   index.writeAsStringSync(jsonEncoder.convert(indexData));
-
-  disposeDraftCorpse(draft['id']);
-
 }

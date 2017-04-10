@@ -1,2 +1,3 @@
 @echo off
-pub run blog_posts:update
+call pub run blog_posts:update
+call "buildfeed.bat"

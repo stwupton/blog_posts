@@ -2,10 +2,9 @@ import 'dart:convert';
 import 'dart:async';
 import 'dart:io';
 
-import 'util.dart';
+import 'src/util.dart';
 
 void main() {
-
   int year = getYear();
   File postsFile = new File(rootPath + 'index\\$year.json');
   Map posts = JSON.decode(postsFile.readAsStringSync());
@@ -18,16 +17,15 @@ void main() {
   post['updated'] = now.toUtc().toString();
   postsFile.writeAsStringSync(jsonEncoder.convert(posts));
   stdout.writeln('Updated post: ${post['id']}');
-
 }
 
 int getYear() {
-  for (int year = 2016; year <= now.year; year++) {
-    stdout.writeln('${year - 2016}. $year');
+  for (int year = 2017; year <= now.year; year++) {
+    stdout.writeln('${year - 2017}. $year');
   }
   stdout.write('\n\nEnter year of the post you wish to update... ');
   int selection = int.parse(stdin.readLineSync());
-  return selection + 2016;
+  return selection + 2017;
 }
 
 String getMonth(Map months) {

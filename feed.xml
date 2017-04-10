@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://stwupton.github.io/</id>
+  <title>Steven Upton's Blog</title>
+  <link rel="alternate" href="https://stwupton.github.io/" />
+  <updated>2017-04-10T19:32:12.169328Z</updated>
+  <author>
+    <name>Steven Upton</name>
+    <email>supton.sz@gmail.com</email>
+    <uri>https://stwupton.github.io/</uri>
+  </author>
+  <entry>
+    <title type="html">
+      <![CDATA[Second Post Test]]>
+    </title>
+    <id>https://stwupton.github.io/2017/2/second-post-test</id>
+    <link href="https://stwupton.github.io/2017/2/second-post-test" />
+    <updated>2017-02-17T21:47:35.129911Z</updated>
+    <summary type="html">
+      <![CDATA[Suspendisse potenti. Morbi vitae erat urna. Morbi lorem justo, aliquam et leo nec, ultrices interdum neque. Nunc iaculis dapibus dictum. Nulla eu volutpat arcu. Duis malesuada sapien est, eget convallis tortor porttitor quis. Duis nec scelerisque ante. Nam mi dui, dignissim sed e...]]>
+    </summary>
+    <published>2017-02-17T18:04:49.721042Z</published>
+  </entry>
+</feed>

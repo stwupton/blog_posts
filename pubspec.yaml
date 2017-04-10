@@ -2,8 +2,5 @@ name: blog_posts
 version: 0.0.1
 description: A simple console application.
 dependencies:
- markdown: any
-
-executables:
-  new:
-  publish:
+  markdown: any
+  xml: ^2.5.0
