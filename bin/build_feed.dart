@@ -5,16 +5,21 @@ import 'package:blog_posts/feed.dart';
 
 import 'src/util.dart';
 
-final Uri blogAddress =
-    new Uri(scheme: 'https', host: 'stwupton.github.io', path: '/');
+final Uri blogAddress = new Uri(
+    scheme: 'https',
+    host: 'stwupton.github.io',
+    path: '/');
 final List<Person> authors = [
   new Person('Steven Upton', email: 'supton.sz@gmail.com', link: blogAddress)
 ];
+final Uri feedAddress = new Uri(
+    scheme: 'https',
+    host: 'raw.githubusercontent.com',
+    pathSegments: ['stwupton', 'blog_posts', 'dev', 'feed.xml']);
 
 void main() {
-  // TODO: Add 'feed' link.
   Feed feed = new Feed('Steven Upton\'s Blog', blogAddress, blogAddress,
-      authors: authors);
+      authors: authors, feed: feedAddress);
 
   List<Item> items = [];
   _populateItems(items);

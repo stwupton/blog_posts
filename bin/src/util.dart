@@ -3,8 +3,8 @@ import 'dart:io';
 
 import 'package:markdown/markdown.dart';
 
-DateTime now = new DateTime.now();
-JsonEncoder jsonEncoder = new JsonEncoder.withIndent('  ');
+final DateTime now = new DateTime.now();
+final JsonEncoder jsonEncoder = new JsonEncoder.withIndent('  ');
 
 String get rootPath => Directory.current.uri.toFilePath();
 
