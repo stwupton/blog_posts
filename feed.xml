@@ -3,12 +3,25 @@
   <id>https://stwupton.github.io/</id>
   <title>Steven Upton's Blog</title>
   <link rel="alternate" href="https://stwupton.github.io/" />
-  <updated>2017-04-10T19:32:12.169328Z</updated>
+  <updated>2017-04-11T12:58:32.300Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
     <uri>https://stwupton.github.io/</uri>
   </author>
+  <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/dev/feed.xml" />
+  <entry>
+    <title type="html">
+      <![CDATA[Testing Post]]>
+    </title>
+    <id>https://stwupton.github.io/2017/4/testing-post</id>
+    <link href="https://stwupton.github.io/2017/4/testing-post" />
+    <updated>2017-04-11T12:58:31.392Z</updated>
+    <summary type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum urna nunc, in pretium risus hendrerit at. Etiam pharetra molestie velit. Phasellus semper massa a felis tempus, ut posuere ligula fermentum. Curabitur accumsan in lacus at fermentum. Vestibulum dapibus aucto...]]>
+    </summary>
+    <published>2017-04-11T12:58:31.392Z</published>
+  </entry>
   <entry>
     <title type="html">
       <![CDATA[Second Post Test]]>
