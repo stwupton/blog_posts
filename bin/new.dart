@@ -10,6 +10,7 @@ void main(List<String> args) {
   String id = title
       .toLowerCase()
       .replaceAll(' ', '-')
+      .replaceAll(new RegExp('[-]+'), '-')
       .replaceAll(new RegExp('[^\\w-]'), '');
 
   File index = new File(rootPath + 'index\\drafts.json');
