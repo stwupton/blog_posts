@@ -15,5 +15,13 @@
       "published": "2017-04-11 12:58:31.392Z",
       "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum urna nunc, in pretium risus hendrerit at. Etiam pharetra molestie velit. Phasellus semper massa a felis tempus, ut posuere ligula fermentum. Curabitur accumsan in lacus at fermentum. Vestibulum dapibus aucto..."
     }
+  ],
+  "8": [
+    {
+      "title": "Test Post 3",
+      "id": "test-post-3",
+      "published": "2017-08-12 12:11:59.077769Z",
+      "snippet": "Some random text."
+    }
   ]
 }
