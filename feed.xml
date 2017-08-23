@@ -3,13 +3,25 @@
   <id>https://stwupton.github.io/</id>
   <title>Steven Upton's Blog</title>
   <link rel="alternate" href="https://stwupton.github.io/" />
-  <updated>2017-08-13T09:23:39.549331Z</updated>
+  <updated>2017-08-23T15:22:18.842214Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
     <uri>https://stwupton.github.io/</uri>
   </author>
   <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/dev/feed.xml" />
+  <entry>
+    <title type="html">
+      <![CDATA[Tweet Test]]>
+    </title>
+    <id>https://stwupton.github.io/2017/8/tweet-test</id>
+    <link href="https://stwupton.github.io/2017/8/tweet-test" />
+    <updated>2017-08-23T15:22:17.947215Z</updated>
+    <summary type="html">
+      <![CDATA[testing&gt; i should write a blog post&gt; don’t like my current blogging engine&gt; could build one*builds blogging engine*&gt; could blog about that]]>
+    </summary>
+    <published>2017-08-23T15:22:17.947215Z</published>
+  </entry>
   <entry>
     <title type="html">
       <![CDATA[Test Post 4]]>
