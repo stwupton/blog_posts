@@ -1,6 +1,6 @@
 I finally done it. I created my very own blog which was created with the help of my favourite programming language, [Dart][dartlang_site], and a light-weight library I quickly whipped together which is based on the Flux design pattern. You may ask, why go through all of that effort when I could have just used Blogger or Wordpress?
 
-# TODO: TWEET IMAGE HERE
+[![@iamdeveloper Tweet][tweet_image]][tweet_link]
 
 Like most developers I have a tendency to build things from the ground up, even though there is usually an amazing solution already out there which has been created by developers with far greater talent than I will ever have. And the reason why me and so many others do this is... well, it's fun.  
 
@@ -31,3 +31,11 @@ So please, if you are one of those people, leave a comment. I am always up for n
 Well, that concludes my first post. See you next week.
 
 [indecks_site]: https://indecks.co
+[dartlang_site]: https://dartlang.org
+
+[tweet_image]: http://res.cloudinary.com/dyzej76ig/image/upload/v1503502474/my-first-blog-post/tweet.png
+[tweet_link]: https://twitter.com/iamdevloper/status/743799765566054410
+
+[1gam_site]: http://onegameamonth.com/
+
+[feed_link]: https://raw.githubusercontent.com/stwupton/blog_posts/master/feed.xml
