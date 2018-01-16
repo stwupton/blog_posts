@@ -17,7 +17,7 @@ final List<Person> authors = [
 final Uri feedAddress = new Uri(
     scheme: 'https',
     host: 'raw.githubusercontent.com',
-    pathSegments: ['stwupton', 'blog_posts', 'dev', 'feed.xml']);
+    pathSegments: ['stwupton', 'blog_posts', 'master', 'feed.xml']);
 
 final Uri imageAddress = Uri.parse(
     'https://lh3.googleusercontent.com/BLSrE-x7j-XcGei1MlwVeRKxez75Md0Ho2cEtV2F' +
