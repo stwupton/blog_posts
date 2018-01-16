@@ -1,0 +1,10 @@
+{
+  "1": [
+    {
+      "title": "My First Blog Post",
+      "id": "my-first-blog-post",
+      "published": "2018-01-16 20:51:29.752493Z",
+      "snippet": "With the help of my favourite programming language (Dart) and this amazing, front-end hosting service called Netlify, I have finally created my own blog. In a world where services like Wordpress and Blogger exist, you may ask: \"Why bother creating your own blog?\""
+    }
+  ]
+}
