@@ -3,72 +3,12 @@
   <id>https://stwupton.com/</id>
   <title>Steven Upton's Blog</title>
   <link rel="alternate" href="https://stwupton.com/" />
-  <updated>2018-01-16T11:10:46.072183Z</updated>
+  <updated>2018-01-16T20:25:20.324444Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
     <uri>https://stwupton.com/</uri>
   </author>
-  <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/dev/feed.xml" />
+  <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/master/feed.xml" />
   <logo>https://lh3.googleusercontent.com/BLSrE-x7j-XcGei1MlwVeRKxez75Md0Ho2cEtV2FT9QLTt6il4zMlC1t4w-pvfeYNL0PIbSOWEdUbw=s179-rw-no</logo>
-  <entry>
-    <title type="html">
-      <![CDATA[Test 2018]]>
-    </title>
-    <id>https://stwupton.com/2018/1/test-2018</id>
-    <link href="https://stwupton.com/2018/1/test-2018" />
-    <updated>2018-01-16T11:10:44.318899Z</updated>
-    <summary type="html">
-      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum urna nunc, in pretium risus hendrerit at. Etiam pharetra molestie velit. Phasellus semper massa a felis tempus, ut posuere ligula fermentum. Curabitur accumsan in lacus at fermentum. Vestibulum dapibus aucto...]]>
-    </summary>
-    <published>2018-01-16T11:10:44.318899Z</published>
-  </entry>
-  <entry>
-    <title type="html">
-      <![CDATA[Test Post 4]]>
-    </title>
-    <id>https://stwupton.com/2017/8/test-post-4</id>
-    <link href="https://stwupton.com/2017/8/test-post-4" />
-    <updated>2017-08-13T09:23:38.793594Z</updated>
-    <summary type="html">
-      <![CDATA[Random post test 4 text.]]>
-    </summary>
-    <published>2017-08-13T09:23:38.793594Z</published>
-  </entry>
-  <entry>
-    <title type="html">
-      <![CDATA[Test Post 3]]>
-    </title>
-    <id>https://stwupton.com/2017/8/test-post-3</id>
-    <link href="https://stwupton.com/2017/8/test-post-3" />
-    <updated>2017-08-12T12:11:59.077769Z</updated>
-    <summary type="html">
-      <![CDATA[Some random text.]]>
-    </summary>
-    <published>2017-08-12T12:11:59.077769Z</published>
-  </entry>
-  <entry>
-    <title type="html">
-      <![CDATA[Testing Post]]>
-    </title>
-    <id>https://stwupton.com/2017/4/testing-post</id>
-    <link href="https://stwupton.com/2017/4/testing-post" />
-    <updated>2017-04-11T12:58:31.392Z</updated>
-    <summary type="html">
-      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum urna nunc, in pretium risus hendrerit at. Etiam pharetra molestie velit. Phasellus semper massa a felis tempus, ut posuere ligula fermentum. Curabitur accumsan in lacus at fermentum. Vestibulum dapibus aucto...]]>
-    </summary>
-    <published>2017-04-11T12:58:31.392Z</published>
-  </entry>
-  <entry>
-    <title type="html">
-      <![CDATA[Second Post Test]]>
-    </title>
-    <id>https://stwupton.com/2017/2/second-post-test</id>
-    <link href="https://stwupton.com/2017/2/second-post-test" />
-    <updated>2017-08-09T10:29:19.661398Z</updated>
-    <summary type="html">
-      <![CDATA[Suspendisse potenti. Morbi vitae erat urna. Morbi lorem justo, aliquam et leo nec, ultrices interdum neque. Nunc iaculis dapibus dictum. Nulla eu volutpat arcu. Duis malesuada sapien est, eget convallis tortor porttitor quis. Duis nec scelerisque ante. Nam mi dui, dignissim sed e...]]>
-    </summary>
-    <published>2017-02-17T18:04:49.721042Z</published>
-  </entry>
 </feed>

@@ -34,7 +34,7 @@ Now all I needed to do was to add the parameters to the end of the URL like so: 
 
 There’s not much to say here. The game which I set out to make was made and it was done by overcoming a very small amount of hurdles.
 
-[![QUIK Screenshots][screenshots]]
+![QUIK Screenshots][screenshots]
 
 Try it out [here][quik_game]. Bear in mind that the target platform is mobile; it will work on desktop but it's much nicer to play on touch screen. Also, if you are interested, I have made the source code available on [Github][quik_source].
 

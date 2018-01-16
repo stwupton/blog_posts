@@ -36,7 +36,7 @@ void main() {
 }
 
 void _populateItems(List<Item> items, {int maximum: 20}) {
-  for (int year = now.year; year >= 2017; year--) {
+  for (int year = now.year; year >= 2018; year--) {
     if (items.length >= maximum) return;
 
     Map index;
