@@ -34,9 +34,9 @@ Well, that concludes my first post. See you next week.
 [dartlang_site]: https://dartlang.org
 [netlify_site]: https://www.netlify.com
 
-[tweet_image]: http://res.cloudinary.com/dyzej76ig/image/upload/v1503502474/my-first-blog-post/tweet.png
+[tweet_image]: https://res.cloudinary.com/dyzej76ig/image/upload/v1503502474/my-first-blog-post/tweet.png
 [tweet_link]: https://twitter.com/iamdevloper/status/743799765566054410
 
-[1gam_site]: http://onegameamonth.com/
+[1gam_site]: https://onegameamonth.com/
 
 [feed_link]: https://raw.githubusercontent.com/stwupton/blog_posts/master/feed.xml

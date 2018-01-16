@@ -3,7 +3,7 @@
   <id>https://stwupton.com/</id>
   <title>Steven Upton's Blog</title>
   <link rel="alternate" href="https://stwupton.com/" />
-  <updated>2018-01-16T20:51:30.763780Z</updated>
+  <updated>2018-01-16T21:22:05.840869Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
@@ -17,7 +17,7 @@
     </title>
     <id>https://stwupton.com/2018/1/my-first-blog-post</id>
     <link href="https://stwupton.com/2018/1/my-first-blog-post" />
-    <updated>2018-01-16T20:51:29.752493Z</updated>
+    <updated>2018-01-16T21:21:55.125130Z</updated>
     <summary type="html">
       <![CDATA[With the help of my favourite programming language (Dart) and this amazing, front-end hosting service called Netlify, I have finally created my own blog. In a world where services like Wordpress and Blogger exist, you may ask: "Why bother creating your own blog?"]]>
     </summary>
