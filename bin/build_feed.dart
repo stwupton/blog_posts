@@ -7,19 +7,25 @@ import 'src/util.dart';
 
 final Uri blogAddress = new Uri(
     scheme: 'https',
-    host: 'stwupton.github.io',
+    host: 'stwupton.com',
     path: '/');
+
 final List<Person> authors = [
   new Person('Steven Upton', email: 'supton.sz@gmail.com', link: blogAddress)
 ];
+
 final Uri feedAddress = new Uri(
     scheme: 'https',
     host: 'raw.githubusercontent.com',
     pathSegments: ['stwupton', 'blog_posts', 'dev', 'feed.xml']);
 
+final Uri imageAddress = Uri.parse(
+    'https://lh3.googleusercontent.com/BLSrE-x7j-XcGei1MlwVeRKxez75Md0Ho2cEtV2F' +
+    'T9QLTt6il4zMlC1t4w-pvfeYNL0PIbSOWEdUbw=s179-rw-no');
+
 void main() {
   Feed feed = new Feed('Steven Upton\'s Blog', blogAddress, blogAddress,
-      authors: authors, feed: feedAddress);
+      authors: authors, feed: feedAddress, image: imageAddress);
 
   List<Item> items = [];
   _populateItems(items);
