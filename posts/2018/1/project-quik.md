@@ -55,10 +55,10 @@ I didn't actually want to make this game. It was fun to develop, but in the end 
 Making this game was great fun, it just wasn’t fun to play. Oh well, lesson learned. Next time, I will make sure that the project that I am going to start is something that I can’t wait to get in players’ hands; even if that means stretching out the scope of the development to a somewhat intimidating scale.
 
 [dartlang_site]: https://dartlang.org
-[stagexl_site]: http://www.stagexl.org/
+[stagexl_site]: https://github.com/bp74/StageXL
 
 [quik_game]: https://stwupton.github.io/quik/
 [quik_source]: https://github.com/stwupton/quik
 
-[sketch]: http://res.cloudinary.com/dyzej76ig/image/upload/v1516132682/project-quik/sketch.png
-[screenshots]: http://res.cloudinary.com/dyzej76ig/image/upload/v1516131128/project-quik/quik_screengrab.png
+[sketch]: https://res.cloudinary.com/dyzej76ig/image/upload/v1516132682/project-quik/sketch.png
+[screenshots]: https://res.cloudinary.com/dyzej76ig/image/upload/v1516131128/project-quik/quik_screengrab.png
