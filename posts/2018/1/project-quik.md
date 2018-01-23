@@ -1,6 +1,6 @@
 So it all started with a game called Brain Genius by the company Glu. It was one of those mobile flash games that my Mum let me play on her Nokia phone as a child while I waited for her and my friend's Mum to stop talking and finally take me home. It was a fairly typical brain training game with memory exercises and math puzzles. But there was this one puzzle that I always looked forward to when starting a new brain training session. I can't seem to find any resources online to illustrate the basic rules of the game, so I will attempt to draw it to the best of my ability.
 
-![My awfull sketch][sketch]
+![My awful sketch][sketch]
 
 You start with the spider at the top and move your eyes down the line. If you come to a horizontal line you simply move across to the connecting vertical line. Eventually you will come to a number at the bottom, which is the number that you press on the keypad.
 
@@ -48,11 +48,11 @@ By the way, I know some of you may be thinking to yourself; “why didn't he jus
 
 ### Mistake #2
 
-I didn't actually want to make this game. It was fun to develop, but in the end it's not the kind of game that I want to create for people; or probably more importantly: myself. I think I was too focused on “keeping the scope small” that I settled for an idea that I knew could be easily done rather than tackling an idea that excites me but at a smaller scale.
+I didn't actually want to make this game. It was fun to develop, but in the end it's not the kind of game that I want to create for people; or probably more importantly... myself. I think I was too focused on “keeping the scope small” that I settled for an idea that I knew could be easily done rather than tackling an idea that excites me.
 
 ## Conclusion
 
-Making this game was great fun, it just wasn’t fun to play it. I could not recognise myself getting better and faster at the game the more that I did play it, and I doubt others would either. Oh well, lesson learned. Next time, I will make sure that the project that I am going to start is something that I can’t wait to get in players’ hands… even if that means stretching out the scope of the development to a somewhat intimidating scale.
+Making this game was great fun, it just wasn’t fun to play. Oh well, lesson learned. Next time, I will make sure that the project that I am going to start is something that I can’t wait to get in players’ hands; even if that means stretching out the scope of the development to a somewhat intimidating scale.
 
 [dartlang_site]: https://dartlang.org
 [stagexl_site]: http://www.stagexl.org/
