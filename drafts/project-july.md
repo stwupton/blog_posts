@@ -22,7 +22,7 @@ So, I sat down and and drafted a flow diagram to show the core combat loop from 
 
 ![Problem block][problem_block]
 
-There is so much that the player has to decide on in this part that they may become overwhelmed; breaking the flow of the game. Pausing and thinking about your next move is not something fans of turn-based RPGs are unfamiliar with, but it’s the addition of movement that causes complications. Currently, not only will each part member have a limited distance that they can move to, but the attack range is also limited and that range also varies depending on what weapon or what ability is being used. That sentence alone was confusing enough... now imagine playing it. This will have to be something I test with others and work on an elegant solution for it does come to be too complex. Of course removing the movement feature altogether is still an option… but that would make me sad &#xe058;.
+There is so much that the player has to decide on in this part that they may become overwhelmed; breaking the flow of the game. Pausing and thinking about your next move is not something fans of turn-based RPGs are unfamiliar with, but it’s the addition of movement that causes complications. Currently, not only will each part member have a limited distance that they can move to, but the attack range is also limited and that range also varies depending on what weapon or what ability is being used. That sentence alone was confusing enough... now imagine playing it. This will have to be something I test with others and work on an elegant solution for it does come to be too complex. Of course removing the movement feature altogether is still an option… but that would make me sad &#x2639;.
 
 ## Current Progress
 
