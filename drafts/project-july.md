@@ -2,7 +2,7 @@ In my [last post][last_post_link] I concluded that the project I decided to work
 
 A good friend of mine, Tom Gill, once said: “aim for the ceiling and you will at least reach the window seal. But aim for the stars and you will surely find yourself above the clouds.” So, if I aim for completing a project that seems well beyond my knowledge and skill level, then I will surely develop my skills much further than if I was to aim for something that seems within reach. Though, with this mindset, I believe that expecting failures (and learning from them) is extremely important.
 
-What then, is Project July? If you know me then you most likely know that story-driven games are my favourite type of game. Therefore, it only makes for me to make a grand, story-driven JRPG with turn-based combat mechanics &#x1f913;. Like I said, I am expecting plenty of hurdles and failures, but I am extremely excited for what I’m going to learn along the way. The story is written down and I’m always churning new ideas and plot points in the back of my mind, but for now, story is not important. I have watched enough [Extra Credits][extra_credits_channel] and [GDC talks][gdc_talks_channel] on Youtube to know that it’s probably best to always start by prototyping the core mechanics of the game, and the core mechanics of this game is the combat.
+What then, is Project July? If you know me then you most likely know that story-driven games are my favourite type of game. Therefore, it only makes sense for me to make a grand, story-driven JRPG with turn-based combat mechanics &#x1f913;. Like I said, I am expecting plenty of hurdles and failures, but I am extremely excited for what I’m going to learn along the way. The story is written down and I’m always churning new ideas and plot points in the back of my mind, but for now, story is not important. I have watched enough [Extra Credits][extra_credits_channel] and [GDC talks][gdc_talks_channel] on Youtube to know that it’s probably best to always start by prototyping the core mechanics of the game, and the core mechanics of this game is the combat.
 
 ## Designing the Combat Mechanics
 
@@ -10,11 +10,11 @@ The combat mechanics I have in mind have some elements that are inspired by othe
 
 The first element is the ability to move around the battle arena to strategically position yourself for future turns ahead. Get behind an enemy for a stronger attack, keep close to an ally who has healing magic or move behind a pillar to remain out of a turret’s fire. There are many more possibilities with this mechanic and I’m sure they will reveal themselves later down the line.
 
-The second is being able to trade places in battle with an party member that’s on the bench. Only three party members will be allowed in the arena at one time, so the player will need to swap places with another party member when necessary. Say one member specialises in dealing with flying monsters, then the player would switch to that party member in order to get the job done. I really admire this feature Final Fantasy X. It gave each party member a purpose and left no one on the bench who would gradually become more and more useless the further into the game you played.
+The second is being able to trade places in battle with a party member that’s on the bench. Only three party members will be allowed in the arena at one time, so the player will need to swap places with another party member when necessary. Say one member specialises in dealing with flying monsters, then the player would switch to that party member in order to get the job done. I really admire this feature Final Fantasy X. It gave each party member a purpose and left no one on the bench who would gradually become more and more useless the further into the game you played.
 
 Finally, conditional quick time events. For example, when a player does a basic melee attack, a cue will show for them to react to a quick time event in order to boost the damage outcome. Also, the player could get a cue to dodge or block an incoming attack. This added skill challenge should give the players a sense of having more control over the actions they choose. I suspect that (some?) enemies will also be given this privilege.
 
-So, I sat down and and drafted a flow diagram to show the core combat loop from the player’s perspective...
+So, I sat down and drafted a flow diagram to show the core combat loop from the player’s perspective...
 
 ![Full game loop][full_game_loop]
 
@@ -22,7 +22,7 @@ So, I sat down and and drafted a flow diagram to show the core combat loop from 
 
 ![Problem block][problem_block]
 
-There is so much that the player has to decide on in this part that they may become overwhelmed; breaking the flow of the game. Pausing and thinking about your next move is not something fans of turn-based RPGs are unfamiliar with, but it’s the addition of movement that causes complications. Currently, not only will each part member have a limited distance that they can move to, but the attack range is also limited and that range also varies depending on what weapon or what ability is being used. That sentence alone was too confusing... now imagine playing it. This will have to be something I test with others and work on an elegant solution for if it does prove to be too complex. Of course removing the movement feature altogether is still an option… but that would make me sad &#x2639;.
+There is so much that the player has to decide on in this part that they may become overwhelmed; breaking the flow of the game. Pausing and thinking about your next move is not something fans of turn-based RPGs are unfamiliar with, but it’s the addition of movement that causes complications. Currently, not only will each part member have a limited distance that they can move to, but the attack range is also limited and that range also varies depending on what weapon or ability is being used. That sentence alone was too confusing... now imagine playing it. This will have to be something I test with others and work on an elegant solution for if it does prove to be too complex. Of course removing the movement feature altogether is still an option… but that would make me sad &#x2639;.
 
 ## Current Progress
 
