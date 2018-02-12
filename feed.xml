@@ -3,7 +3,7 @@
   <id>https://stwupton.com/</id>
   <title>Steven Upton's Blog</title>
   <link rel="alternate" href="https://stwupton.com/" />
-  <updated>2018-01-23T19:29:33.629903Z</updated>
+  <updated>2018-02-12T16:50:35.834598Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
@@ -11,6 +11,18 @@
   </author>
   <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/master/feed.xml" />
   <logo>https://lh3.googleusercontent.com/BLSrE-x7j-XcGei1MlwVeRKxez75Md0Ho2cEtV2FT9QLTt6il4zMlC1t4w-pvfeYNL0PIbSOWEdUbw=s179-rw-no</logo>
+  <entry>
+    <title type="html">
+      <![CDATA[Project July]]>
+    </title>
+    <id>https://stwupton.com/2018/2/project-july</id>
+    <link href="https://stwupton.com/2018/2/project-july" />
+    <updated>2018-02-12T16:50:33.058560Z</updated>
+    <summary type="html">
+      <![CDATA[In my <a href="https://stwupton.com/2018/1/project-quik">last post I concluded that the project I decided to work on was too small in scope and too small in ambition. So much so that I was not in any way enthusiastic about showing it off to the wider world. I’m happy to announce ...]]>
+    </summary>
+    <published>2018-02-12T16:50:33.058560Z</published>
+  </entry>
   <entry>
     <title type="html">
       <![CDATA[Project QUIK]]>
