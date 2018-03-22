@@ -45,7 +45,7 @@ All in all, we finished and uploaded the game with a whopping 7 hours left on th
 I like to think that it was the experience and learning curve of the previous two jams that contributed to the success of this one, but then again, maybe we just got lucky with a great idea… who knows. But what I do know is that me and my friends found these game jams to be hugely beneficial to our learning and our motivation to continue making games. If you are an aspiring game developer/designer, then I cannot recommend participating in game jams enough. 
 
 [being_a_square_img]: https://res.cloudinary.com/dyzej76ig/image/upload/v1521733324/project-july/my-game-jam-spree/DrEomc.png
-[joe_hound_img]: https://res.cloudinary.com/dyzej76ig/image/upload/v1521733217/project-july/my-game-jam-spree/left_2.png
+[joe_hound_img]: https://res.cloudinary.com/dyzej76ig/image/upload/r_0/v1521749705/project-july/my-game-jam-spree/left_2.png
 [dont_disappear_img]: https://res.cloudinary.com/dyzej76ig/image/upload/v1521733156/project-july/my-game-jam-spree/dontdisppear.gif
 
 [being_a_square_download]: https://stwupton.itch.io/being-a-square
