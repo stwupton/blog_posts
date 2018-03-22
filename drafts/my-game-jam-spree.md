@@ -1,4 +1,4 @@
-I originally began writing this blog post about the PIZZA JAM game I made in February but I have done two more since then and I’d thought it’d be nice to touch on them all briefly in one post. 
+I originally began writing this blog post about the PIZZA JAM game I made in February but I have done two more since then and I thought it’d be nice to touch on them all briefly in one post. 
 
 # Being a Square (PIZZA JAM)
 
