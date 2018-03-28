@@ -12,7 +12,7 @@ I spent the first day on developing and tweaking the movement, and then that nig
 
 Download the game [here][being_a_square_download].
 
-I got some really helpful feedback on the submission page and on Facebook, one of which being “the controls feel floaty” 😮. They were probably right, I was tweaking the controls for such a long time that I probably just didn't notice it. The game also got a featured in a YouTube video along with some other submissions…
+I got some really helpful feedback on the submission page and on Facebook, one of which being “the controls feel floaty” 😮. They were probably right, I was tweaking the controls for such a long time that I probably just didn't notice it. The game also got featured in a YouTube video along with some other submissions…
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8qAf432IaXI?rel=0&amp;start=333" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -22,7 +22,7 @@ She didn't see the game through to the end sadly (probably because of the floaty
 
 ![Joe Hound][joe_hound_img]
 
-After having such a fun time with the PIZZA JAM, I was raving to a couple of my friends about how great of an experience it was and how we should do one together. Unfortunately, there wasn't a planned game jam on the horizon that fit our busy schedules, so we decided just to do one ourselves. So we set up a discord channel and dubbed it the “Why Not Game Jam”. We used a random theme generator and ran with the first theme that we landed on: Anachronism. After googling what that actually meant (_a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned_ -  definition from Google) we began brainstorming ideas. We ran with the idea of something being “out of place” and eventually ended up with the idea of an interdimensional being (Joe Hound) with a mustache, running around a city, stealing coffee from people while avoiding police cars in pursuit. Us three do come up with some strange things when we are together.
+After having such a fun time with the PIZZA JAM, I was raving to a couple of my friends about how great an experience it was and how we should do one together. Unfortunately, there wasn't a planned game jam on the horizon that fit our busy schedules, so we decided just to do one ourselves. So we set up a discord channel and dubbed it the “Why Not Game Jam”. We used a random theme generator and ran with the first theme that we landed on: Anachronism. After googling what that actually meant (_a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned_ -  definition from Google) we began brainstorming ideas. We ran with the idea of something being “out of place” and eventually ended up with the idea of an interdimensional being (Joe Hound) with a moustache, running around a city, stealing coffee from people while avoiding police cars in pursuit. We three do come up with some strange things when we are together.
 
 The development went okay, I thought. My task was developing the AI for the police car. I spent the whole first day and night trying to get it to behave how I pictured it in my head. Frustratingly, I never could, so I reverted back to the older, dumber AI that I first made. It didn’t reverse when getting stuck, nor patrol the streets when it lost sight of Joe like I imagined, but it did its job. One day, when time is on my side, I will probably have another crack at it. 
 
@@ -32,7 +32,7 @@ Download the game [here][joe_hound_download].
 
 ![don’t disappear][dont_disappear_img]
 
-On a Saturday at 7 AM me and my friend Tom woke up to find out the theme (10 Seconds) and to come up with a simple idea. It had to be simple, as the next day was Mother's day and we both weren't able to fully commit that day. The idea is a platformer where the player (white stick man) runs in front of a black background, jumping onto platforms while avoiding being submerged by the white areas and racing to get to a safe spot before all the colours invert (which happens every 10 seconds).
+The game jam started at 7 AM on a Saturday. As soon as me and my friend Tom woke up, we checked what the chosen theme was (10 Seconds) and began brainstorming. The idea had to be simple, as the next day was Mother's day and we both weren't able to fully commit that day. The idea is a platformer where the player (white stick man) runs in front of a black background, jumping onto platforms while avoiding being submerged by the white areas and racing to get to a safe spot before all the colours invert (which happens every 10 seconds).
 
 The platforming mechanics was simply done. I took what I learned from Being a Square and made the movement less “floaty”. In order to make the colour inversion work, I had to make a shader. I have never made a shader before and I knew very little about making one. It’s probably not the best idea to learn a new technology whilst in the middle of a game jam, but what I wanted to do was so simple that I easily hacked my way through by looking up examples online. Shaders greatly interest me though, so I will be learning much more about them very soon.
 
