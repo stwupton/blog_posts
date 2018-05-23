@@ -3,7 +3,7 @@
   <id>https://stwupton.com/</id>
   <title>Steven Upton's Blog</title>
   <link rel="alternate" href="https://stwupton.com/" />
-  <updated>2018-03-28T21:37:04.264209Z</updated>
+  <updated>2018-05-23T16:07:53.500485Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
@@ -11,6 +11,18 @@
   </author>
   <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/master/feed.xml" />
   <logo>https://lh3.googleusercontent.com/BLSrE-x7j-XcGei1MlwVeRKxez75Md0Ho2cEtV2FT9QLTt6il4zMlC1t4w-pvfeYNL0PIbSOWEdUbw=s179-rw-no</logo>
+  <entry>
+    <title type="html">
+      <![CDATA[Project July Update #1]]>
+    </title>
+    <id>https://stwupton.com/2018/5/project-july-update-1</id>
+    <link href="https://stwupton.com/2018/5/project-july-update-1" />
+    <updated>2018-05-23T16:07:52.356802Z</updated>
+    <summary type="html">
+      <![CDATA[I have not spent as much time on the developing the core combat mechanics as I hoped. It is slowly but surely getting there and I am proud of what I have done so far. I haven't completely finished what I said I was going to be working on in my last post about Project July, but I ...]]>
+    </summary>
+    <published>2018-05-23T16:07:52.356802Z</published>
+  </entry>
   <entry>
     <title type="html">
       <![CDATA[Jamming Spree]]>
