@@ -2,25 +2,25 @@ I have not spent as much time on the developing the core combat mechanics as I h
 
 # Modelling and Animation
 
-In my [project_july_post][previous post], I ended by saying that I will be working on executing a basic melee attack and for that, I would need a character mesh and some animations. Well, with the help of [sebastian_yt_channel][Sebastian Lague] and his [rpg_yt_playlist][RPG Graphics playlist on YouTube], I was able to do just that. It's ugly, animations look like they have been done by an amateur (because they have been) and the skin weights could be better, but it gets the job done. I have the walk, run and idle animation cycles and I'm currently working on the attack animation. 
+In my [previous post][project_july_post], I ended by saying that I will be working on executing a basic melee attack and for that, I would need a character mesh and some animations. Well, with the help of [Sebastian Lague][sebastian_yt_channel] and his [RPG Graphics playlist on YouTube][rpg_yt_playlist], I was able to do just that. It's ugly, animations look like they have been done by an amateur (because they have been) and the skin weights could be better, but it gets the job done. I have the walk, run and idle animation cycles and I'm currently working on the attack animation. 
 
-![blender_run_animation]
+![Run animation in Blender][blender_run_animation]
 
 I learned a great deal using Blender and following Sebastian's tutorial. After, I was even confident enough to make a katana... without any outside help!
 
-![blender_katana]
+![Katana made in Blender][blender_katana]
 
 # Implementation
 
 I wasted no time in importing my newly created assets into the game; I was so glad to finally be rid of the placeholder capsules. 
 
-![movement_example]
+![Character movement in-game][movement_example]
 
 As you can probably tell, I didn't really think about the character holding a katana when making its run animation &#x1f602;.
 
 I then spent some time on developing the foundations of the combat mechanics and integrated a basic melee attack. Again, I'm still working on the attack animation, but I did make it so the character navigates to the enemy and deducts some health.
 
-![attack_example]
+![Melee attack example][attack_example]
 
 It doesn't look like I will be getting the whole combat system finished by July like I planned. I knew it was stretch but at least I have gotten somewhere with it. Hopefully, my next update will be about a beautiful attack animation and the attack boost feature.
 
