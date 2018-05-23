@@ -1,4 +1,4 @@
-I have not spent as much time on the developing the core combat mechanics as I hoped. But, it is gradually getting there, and I am proud and impressed with what I have done so far. I haven't completely finished what I said I was going to be working on in my last post about Project July but I think that I have done enough that's worth an update on.
+I have not spent as much time on the developing the core combat mechanics as I hoped. It is slowly but surely getting there and I am proud of what I have done so far. I haven't completely finished what I said I was going to be working on in my last post about Project July, but I think that I have done enough that warrants an update.
 
 # Modelling and Animation
 
@@ -22,7 +22,7 @@ I then spent some time on developing the foundations of the combat mechanics and
 
 ![Melee attack example][attack_example]
 
-It doesn't look like I will be getting the whole combat system finished by July like I planned. I knew it was stretch but at least I have gotten somewhere with it. Hopefully, my next update will be about a beautiful attack animation and the attack boost feature.
+It doesn't look like I will be getting the whole combat system finished by July like I planned. Hopefully, my next update will be about a beautiful attack animation and the attack boost feature.
 
 [project_july_post]: https://stwupton.com/2018/2/project-july
 [sebastian_yt_channel]: https://www.youtube.com/user/Cercopithecan
