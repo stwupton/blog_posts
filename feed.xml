@@ -3,7 +3,7 @@
   <id>https://stwupton.com/</id>
   <title>Steven Upton's Blog</title>
   <link rel="alternate" href="https://stwupton.com/" />
-  <updated>2018-05-23T16:07:53.500485Z</updated>
+  <updated>2018-07-26T19:05:27.565156Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
@@ -11,6 +11,18 @@
   </author>
   <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/master/feed.xml" />
   <logo>https://lh3.googleusercontent.com/BLSrE-x7j-XcGei1MlwVeRKxez75Md0Ho2cEtV2FT9QLTt6il4zMlC1t4w-pvfeYNL0PIbSOWEdUbw=s179-rw-no</logo>
+  <entry>
+    <title type="html">
+      <![CDATA[Project July Update #2 (And a Reflection on Procrastination)]]>
+    </title>
+    <id>https://stwupton.com/2018/7/project-july-update-2</id>
+    <link href="https://stwupton.com/2018/7/project-july-update-2" />
+    <updated>2018-07-26T19:05:26.415430Z</updated>
+    <summary type="html">
+      <![CDATA[I could laugh off my habit of procrastination as me being lazy, but deep down I know it’s a bit more complex than that. The number of times I had opened Blender, fiddled around with the attack animation and closed the window remaining unsatisfied with the result, left me dreading...]]>
+    </summary>
+    <published>2018-07-26T19:05:26.415430Z</published>
+  </entry>
   <entry>
     <title type="html">
       <![CDATA[Project July Update #1]]>
