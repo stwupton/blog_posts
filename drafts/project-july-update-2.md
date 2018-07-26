@@ -1,6 +1,6 @@
 I could laugh off my habit of procrastination as me being lazy, but deep down I know it’s a bit more complex than that. The number of times I had opened up Blender, fiddled around with the attack animation and closed the window remaining unsatisfied with the result, left me dreading opening Blender again in the following weeks. Eventually, yesterday, I said to myself; “wait a minute, this is a prototype, you’re not a 3D animator and you’re dragging this on for way too long. Stop being such a perfectionist and get the feature done!” 
 
-Within the hour of me saying that, the feature was complete. If only I had recognised that I was putting off the work, sat down and thought through ways to overcome it, I would have posted an update much sooner. 
+The feature was complete within the hour of me saying that. If only I had recognised that I was putting off the work, sat down and thought through ways to overcome it, I would have posted an update much sooner. 
 
 So if you find yourself putting off work and procrastinating, think carefully about what could be causing you to do so. Very rarely will it be the case that you are just lazy. Maybe doing a certain task will change a certain aspect of your life and that makes you fearful (we are all scared of change). Maybe you are a perfectionist like me, and the very thought about doing the task stresses you out as you know that you will worry over the smallest of details. Once you have the reason, you can begin to view the task in a new frame of mind and start working to resolve it.
 
@@ -20,24 +20,40 @@ Getting the attack feature complete was now a breeze. I created a new `ActionSpe
 
 So now,  when the player clicks the left mouse button in a certain time window of the attack animation, the damage is multiplied like so;
 
-Boost | Multiplier
---- | ---
-None | x1
-Low | x1.2
-Medium | x1.4
-High | x1.7
+<table>
+  <tr>
+    <th>Boost</th>
+    <th>Multiplier</th>
+  </tr>
+  <tr>
+    <td>None</td>
+    <td>x1</td>
+  </tr>
+  <tr>
+    <td>Low</td>
+    <td>x1.2</td>
+  </tr>
+  <tr>
+    <td>Medium</td>
+    <td>x1.4</td>
+  </tr>
+  <tr>
+    <td>High</td>
+    <td>x1.7</td>
+  </tr>
+</table>
 
 I needed a way for the player to know what critical hit was achieved, so I changed the colour of the damage value based on which multiplier was applied.
 
 ![Attack values colours][attack_value_colours]
 
-That’s all there was to the attack feature. I’m pleased with the results... just not happy that it took so long. Next, I will be working on enemy AI and have them choose an enemy to attack. 
+That’s all there was to the attack feature. I’m pleased with the results... just not happy that it took so long. Next, I will be working on enemy AI and have them choose a combatant to attack. 
 
 # The Future of Project July
 
-Project July will be a much more long-term project that I initially thought, and it will likely just be me working on the core mechanics whenever I have the spare time, for quite a while. On the other hand, though, I have started work on a smaller mobile RPG in Unity that will hopefully be much more lucrative in the short-term. I will probably write a post about that project very soon.
+Project July will be a much more of a long-term project than I initially thought, and it will likely just be me working on the core mechanics whenever I have the spare time for quite a while. On the other hand, though, I have started work on a smaller, mobile RPG in Unity that will hopefully be much more lucrative in the short-term. I will probably write a post about that project very soon.
 
-I would just like to end by saying that, when starting this blog I thought I could turn into this writing powerhouse, and that I could probably get two or three posts out a month at least. That hasn’t happened. Writing has not become a habit, but I’m now getting serious about making it one. On top of that, I’m looking to expand my content creation across different online platforms so that I can create and grow a personal brand while I’m on this game-creating journey.
+When starting this blog I thought I could turn into a writing powerhouse that could probably get two or three posts out a month at least. That hasn’t happened. Writing has not become a habit but I’m now getting serious about turning it into one. I’m also looking to create more content on different online platforms so that I can create and grow a personal brand while I’m on this game-creating journey.
 
 Until next time (definitely within a month).
 
