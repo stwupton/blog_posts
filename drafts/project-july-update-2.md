@@ -1,8 +1,8 @@
-I could laugh off my habit of procrastination as me being lazy, but deep down I know it’s a bit more complex than that. The number of times I had opened Blender, fiddled around with the attack animation and closed the window remaining unsatisfied with the result, left me dreading opening Blender again in the following weeks. Eventually, yesterday, I said to myself; “wait a minute, this is a prototype, you’re not a 3D animator and you’re dragging this on for way too long. Stop being such a perfectionist and get the feature done!” 
+I could laugh off my habit of procrastination as me being lazy, but deep down I know it’s a bit more complex than that. The number of times I had opened Blender, fiddled around with the attack animation and closed the window remaining unsatisfied with the result, left me dreading opening it again in the following weeks. Eventually (yesterday), I said to myself; “wait a minute, this is a prototype, you’re not a 3D animator and you’re dragging this on for way too long. Stop being such a perfectionist and get the feature done!” 
 
 The feature was complete within the hour of me saying that. If only I had recognised that I was putting off the work, sat down and thought through ways to overcome it, I would have posted an update much sooner. 
 
-So if you find yourself putting off work and procrastinating, think carefully about what could be causing you to do so. It's probably not because you are just lazy. Maybe doing a certain task will change a certain aspect of your life and that makes you fearful (we are all scared of change). Maybe you are a perfectionist like me and the very thought about doing the task stresses you out as you know that you will worry over the smallest details that probably don't even matter. Once you have the reason, you can begin to view the task in a new frame of mind and start working to resolve it.
+So if you find yourself putting off work and procrastinating, think carefully about what could be causing you to do so. It's probably not because you are "just lazy". Maybe doing a certain task will change a certain aspect of your life and that scares you (we are all scared of change). Maybe you are a perfectionist like me and the very thought about doing the task stresses you out as you know that you will worry over the smallest details that probably don't even matter. Once you have the reason, you can begin to see the task in a new frame of mind and start working to resolve it.
 
 I hope that someone who may be reading this post finds this reflection of mine helpful.
 
@@ -53,7 +53,9 @@ That’s all there was to the attack feature. I’m pleased with the results... 
 
 Project July will be a much more of a long-term project than I initially thought and it will likely just be me working on the core mechanics whenever I have the spare time for quite a while. On the other hand, though, I have started work on a smaller, mobile game in Unity that will hopefully be a much more lucrative project in the short-term. I will probably write a post about that project very soon.
 
-When starting this blog I thought I could turn into a writing powerhouse that could get two or three posts out a month at least. That hasn’t happened. Writing has not become a habit but I’m now getting serious about turning it into one. I’m also looking to create more content on different online platforms so that I can create and grow a personal brand while I’m on this game-creating journey.
+# The Future of This Blog
+
+When starting this blog I thought I would turn into a writing powerhouse that could get two or three posts out a month at least. That hasn’t happened. Writing has not become a habit, but I’m now getting serious about turning it into one. I’m also looking to create more content on different online platforms so that I can create and grow a personal brand while I’m on this game-creating journey.
 
 Until next time. Hopefully within a months time.
 
