@@ -1,10 +1,10 @@
-I could laugh off my habit of procrastination as me being lazy, but deep down I know it’s a bit more complex than that. The number of times I had opened up Blender, fiddled around with the attack animation and closed the window remaining unsatisfied with the result, left me dreading opening Blender again in the following weeks. Eventually, yesterday, I said to myself; “wait a minute, this is a prototype, you’re not a 3D animator and you’re dragging this on for way too long. Stop being such a perfectionist and get the feature done!” 
+I could laugh off my habit of procrastination as me being lazy, but deep down I know it’s a bit more complex than that. The number of times I had opened Blender, fiddled around with the attack animation and closed the window remaining unsatisfied with the result, left me dreading opening Blender again in the following weeks. Eventually, yesterday, I said to myself; “wait a minute, this is a prototype, you’re not a 3D animator and you’re dragging this on for way too long. Stop being such a perfectionist and get the feature done!” 
 
 The feature was complete within the hour of me saying that. If only I had recognised that I was putting off the work, sat down and thought through ways to overcome it, I would have posted an update much sooner. 
 
-So if you find yourself putting off work and procrastinating, think carefully about what could be causing you to do so. Very rarely will it be the case that you are just lazy. Maybe doing a certain task will change a certain aspect of your life and that makes you fearful (we are all scared of change). Maybe you are a perfectionist like me, and the very thought about doing the task stresses you out as you know that you will worry over the smallest of details. Once you have the reason, you can begin to view the task in a new frame of mind and start working to resolve it.
+So if you find yourself putting off work and procrastinating, think carefully about what could be causing you to do so. It's probably not because you are just lazy. Maybe doing a certain task will change a certain aspect of your life and that makes you fearful (we are all scared of change). Maybe you are a perfectionist like me and the very thought about doing the task stresses you out as you know that you will worry over the smallest details that probably don't even matter. Once you have the reason, you can begin to view the task in a new frame of mind and start working to resolve it.
 
-It’s something that sounds like common sense, I know. But sometimes, you find yourself just needing to be reminded. I hope that someone who may be reading this finds this reflection of mine helpful.
+I hope that someone who may be reading this post finds this reflection of mine helpful.
 
 Anyway, let’s move on with the update.
 
@@ -18,9 +18,9 @@ Getting the attack feature complete was now a breeze. I created a new `ActionSpe
 
 ![ActionSpec Godot node][actionspec_godot_node]
 
-So now,  when the player clicks the left mouse button in a certain time window of the attack animation, the damage is multiplied like so;
+So now when the player clicks the left mouse button in a certain time window of the attack animation, the damage is multiplied like so;
 
-<table>
+<table border style="width: 100%; border-collapse: collapse;">
   <tr>
     <th>Boost</th>
     <th>Multiplier</th>
@@ -43,19 +43,19 @@ So now,  when the player clicks the left mouse button in a certain time window o
   </tr>
 </table>
 
-I needed a way for the player to know what critical hit was achieved, so I changed the colour of the damage value based on which multiplier was applied.
+I needed a way for the player to know what critical hit was achieved so I changed the colour of the damage value based on which multiplier was applied.
 
 ![Attack values colours][attack_value_colours]
 
-That’s all there was to the attack feature. I’m pleased with the results... just not happy that it took so long. Next, I will be working on enemy AI and have them choose a combatant to attack. 
+That’s all there was to the attack feature. I’m pleased with the results... just not happy about how long it took to complete. Next, I will be working on enemy AI and having them choose a combatant to attack. 
 
 # The Future of Project July
 
-Project July will be a much more of a long-term project than I initially thought, and it will likely just be me working on the core mechanics whenever I have the spare time for quite a while. On the other hand, though, I have started work on a smaller, mobile RPG in Unity that will hopefully be much more lucrative in the short-term. I will probably write a post about that project very soon.
+Project July will be a much more of a long-term project than I initially thought and it will likely just be me working on the core mechanics whenever I have the spare time for quite a while. On the other hand, though, I have started work on a smaller, mobile game in Unity that will hopefully be a much more lucrative project in the short-term. I will probably write a post about that project very soon.
 
-When starting this blog I thought I could turn into a writing powerhouse that could probably get two or three posts out a month at least. That hasn’t happened. Writing has not become a habit but I’m now getting serious about turning it into one. I’m also looking to create more content on different online platforms so that I can create and grow a personal brand while I’m on this game-creating journey.
+When starting this blog I thought I could turn into a writing powerhouse that could get two or three posts out a month at least. That hasn’t happened. Writing has not become a habit but I’m now getting serious about turning it into one. I’m also looking to create more content on different online platforms so that I can create and grow a personal brand while I’m on this game-creating journey.
 
-Until next time (definitely within a month).
+Until next time. Hopefully within a months time.
 
 [blender_attack_animation]: https://res.cloudinary.com/dyzej76ig/image/upload/v1532616927/project-july-update-2/pj_attack.gif
 [actionspec_godot_node]: https://res.cloudinary.com/dyzej76ig/image/upload/v1532616947/project-july-update-2/pj_actionspec_node.png
