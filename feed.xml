@@ -2,45 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://stwupton.com/</id>
   <title>Steven Upton's Blog</title>
-  <link rel="alternate" href="https://stwupton.com/" />
-  <updated>2018-07-26T19:05:27.565156Z</updated>
+  <link rel="alternate" href="https://stwupton.com/"/>
+  <updated>2020-06-27T12:31:41.100172Z</updated>
   <author>
     <name>Steven Upton</name>
     <email>supton.sz@gmail.com</email>
     <uri>https://stwupton.com/</uri>
   </author>
-  <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/master/feed.xml" />
+  <link rel="self" href="https://raw.githubusercontent.com/stwupton/blog_posts/master/feed.xml"/>
   <logo>https://lh3.googleusercontent.com/BLSrE-x7j-XcGei1MlwVeRKxez75Md0Ho2cEtV2FT9QLTt6il4zMlC1t4w-pvfeYNL0PIbSOWEdUbw=s179-rw-no</logo>
-  <entry>
-    <title type="html">
-      <![CDATA[Project July Update #2 (And a Reflection on Procrastination)]]>
-    </title>
-    <id>https://stwupton.com/2018/7/project-july-update-2</id>
-    <link href="https://stwupton.com/2018/7/project-july-update-2" />
-    <updated>2018-07-26T19:05:26.415430Z</updated>
-    <summary type="html">
-      <![CDATA[I could laugh off my habit of procrastination as me being lazy, but deep down I know it’s a bit more complex than that. The number of times I had opened Blender, fiddled around with the attack animation and closed the window remaining unsatisfied with the result, left me dreading...]]>
-    </summary>
-    <published>2018-07-26T19:05:26.415430Z</published>
-  </entry>
-  <entry>
-    <title type="html">
-      <![CDATA[Project July Update #1]]>
-    </title>
-    <id>https://stwupton.com/2018/5/project-july-update-1</id>
-    <link href="https://stwupton.com/2018/5/project-july-update-1" />
-    <updated>2018-05-23T16:07:52.356802Z</updated>
-    <summary type="html">
-      <![CDATA[I have not spent as much time on the developing the core combat mechanics as I hoped. It is slowly but surely getting there and I am proud of what I have done so far. I haven't completely finished what I said I was going to be working on in my last post about Project July, but I ...]]>
-    </summary>
-    <published>2018-05-23T16:07:52.356802Z</published>
-  </entry>
   <entry>
     <title type="html">
       <![CDATA[Jamming Spree]]>
     </title>
     <id>https://stwupton.com/2018/3/jamming-spree</id>
-    <link href="https://stwupton.com/2018/3/jamming-spree" />
+    <link href="https://stwupton.com/2018/3/jamming-spree"/>
     <updated>2018-03-28T21:37:03.148568Z</updated>
     <summary type="html">
       <![CDATA[I originally began writing this blog post about the PIZZA JAM game I made in February but I have done two more since then and I thought it’d be nice to touch on them all briefly in one post. ]]>
@@ -49,22 +25,10 @@
   </entry>
   <entry>
     <title type="html">
-      <![CDATA[Project July]]>
-    </title>
-    <id>https://stwupton.com/2018/2/project-july</id>
-    <link href="https://stwupton.com/2018/2/project-july" />
-    <updated>2018-02-12T17:02:32.338275Z</updated>
-    <summary type="html">
-      <![CDATA[In my last post I concluded that the project I decided to work on was too small in scope and too small in ambition. So much so that I was not in any way enthusiastic about showing it off to the wider world. I’m happy to announce that I am now doing the opposite; I have started a ...]]>
-    </summary>
-    <published>2018-02-12T16:50:33.058560Z</published>
-  </entry>
-  <entry>
-    <title type="html">
       <![CDATA[Project QUIK]]>
     </title>
     <id>https://stwupton.com/2018/1/project-quik</id>
-    <link href="https://stwupton.com/2018/1/project-quik" />
+    <link href="https://stwupton.com/2018/1/project-quik"/>
     <updated>2018-01-23T19:29:23.445405Z</updated>
     <summary type="html">
       <![CDATA[So it all started with a game called Brain Genius by the company Glu. It was one of those mobile flash games that my Mum let me play on her Nokia phone as a child while I waited for her and my friend's Mum to stop talking and finally take me home. It was a fairly typical brain tr...]]>
@@ -76,7 +40,7 @@
       <![CDATA[My First Blog Post]]>
     </title>
     <id>https://stwupton.com/2018/1/my-first-blog-post</id>
-    <link href="https://stwupton.com/2018/1/my-first-blog-post" />
+    <link href="https://stwupton.com/2018/1/my-first-blog-post"/>
     <updated>2018-01-16T21:21:55.125130Z</updated>
     <summary type="html">
       <![CDATA[With the help of my favourite programming language (Dart) and this amazing, front-end hosting service called Netlify, I have finally created my own blog. In a world where services like Wordpress and Blogger exist, you may ask: "Why bother creating your own blog?"]]>

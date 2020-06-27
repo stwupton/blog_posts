@@ -43,7 +43,7 @@ void _populateItems(List<Item> items, {int maximum: 20}) {
     try {
       String contents =
           new File(rootPath + '\\index\\$year.json').readAsStringSync();
-      index = JSON.decode(contents);
+      index = json.decode(contents);
     } catch (_) {
       continue;
     }
@@ -51,9 +51,9 @@ void _populateItems(List<Item> items, {int maximum: 20}) {
     for (int month = 12; month > 0; month--) {
       if (items.length >= maximum) return;
 
-      List<Map> posts = index[month.toString()];
+      List posts = index[month.toString()];
       if (posts == null) continue;
-      posts = posts.reversed;
+      posts = posts.reversed.toList();
 
       // Loop throught the posts of the month in reverse order.
       for (Map post in posts) {

@@ -16,7 +16,7 @@ void main(List<String> args) {
   File index = new File(rootPath + 'index\\drafts.json');
   List<Map> indexData;
   try {
-    indexData = JSON.decode(index.readAsStringSync());
+    indexData = json.decode(index.readAsStringSync());
   } catch (_) {
     index.createSync(recursive: true);
     indexData = [];

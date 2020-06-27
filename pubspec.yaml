@@ -3,4 +3,4 @@ version: 0.0.1
 description: A simple console application.
 dependencies:
   markdown: any
-  xml: ^2.5.0
+  xml: ^4.2.0

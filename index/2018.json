@@ -15,15 +15,7 @@
       "updated": "2018-01-23 19:29:23.445405Z"
     }
   ],
-  "2": [
-    {
-      "title": "Project July",
-      "id": "project-july",
-      "published": "2018-02-12 16:50:33.058560Z",
-      "snippet": "In my last post I concluded that the project I decided to work on was too small in scope and too small in ambition. So much so that I was not in any way enthusiastic about showing it off to the wider world. I’m happy to announce that I am now doing the opposite; I have started a ...",
-      "updated": "2018-02-12 17:02:32.338275Z"
-    }
-  ],
+  "2": [],
   "3": [
     {
       "title": "Jamming Spree",
@@ -32,20 +24,6 @@
       "snippet": "I originally began writing this blog post about the PIZZA JAM game I made in February but I have done two more since then and I thought it’d be nice to touch on them all briefly in one post. "
     }
   ],
-  "5": [
-    {
-      "title": "Project July Update #1",
-      "id": "project-july-update-1",
-      "published": "2018-05-23 16:07:52.356802Z",
-      "snippet": "I have not spent as much time on the developing the core combat mechanics as I hoped. It is slowly but surely getting there and I am proud of what I have done so far. I haven't completely finished what I said I was going to be working on in my last post about Project July, but I ..."
-    }
-  ],
-  "7": [
-    {
-      "title": "Project July Update #2 (And a Reflection on Procrastination)",
-      "id": "project-july-update-2",
-      "published": "2018-07-26 19:05:26.415430Z",
-      "snippet": "I could laugh off my habit of procrastination as me being lazy, but deep down I know it’s a bit more complex than that. The number of times I had opened Blender, fiddled around with the attack animation and closed the window remaining unsatisfied with the result, left me dreading..."
-    }
-  ]
+  "5": [],
+  "7": []
 }

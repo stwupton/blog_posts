@@ -12,7 +12,7 @@ Future main() async {
 
 void disposeDraftCorpse(String id) {
   File index = new File(rootPath + 'index\\drafts.json');
-  List indexData = JSON.decode(index.readAsStringSync());
+  List<Map> indexData = json.decode(index.readAsStringSync());
   indexData.removeWhere((Map draft) => draft['id'] == id);
   index.writeAsStringSync(jsonEncoder.convert(indexData));
 
@@ -29,7 +29,7 @@ Map getDraft() {
     throw new Exception('Could not find unpublished posts.');
   }
 
-  List<Map> indexData = JSON.decode(index.readAsStringSync());
+  List<Map> indexData = json.decode(index.readAsStringSync());
 
   if (indexData.isEmpty)
     throw new Exception('Could not find unpublished posts.');
@@ -77,7 +77,7 @@ void publish(Map draft) {
   File index = new File(indexPath);
   Map<String, List<Map>> indexData;
   try {
-    indexData = JSON.decode(index.readAsStringSync());
+    indexData = json.decode(index.readAsStringSync());
   } catch (_) {
     indexData = {};
     index.createSync(recursive: true);
